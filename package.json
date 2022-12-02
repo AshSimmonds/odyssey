@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "@types/three": "^0.146.0",
+    "@viridia/odyssey": "file:",
     "astronomy-engine": "^2.1.12",
     "dolmen": "^0.2.1",
     "dolmen-keys": "^0.0.5",
